@@ -1,4 +1,4 @@
-$.getJSON("forms.json", function(json) {
+$.getJSON("reclama.json", function(json) {
   var formCounter = 0;
   var id = "";
   var text = "";
